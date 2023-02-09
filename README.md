@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Francisco Vargas
 
-- 🔭 Recém formado no 3º Ano do Ensino Médio (Senac)
-- 🌱 Estudando Front-end e Back-end por conta
+- 🔭 Cursando TSI (Senac)
+- 🌱 O intuito é postar algum projeto aqui sempre que possível
 - 📫 Contate-me no email: franciscovargasmarcal@gmail.com
 - 😎 Tenho 17 anos
