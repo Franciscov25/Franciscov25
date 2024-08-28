@@ -1,5 +1,5 @@
-## Olá! Eu sou o Francisco Vargas
+## Hi! My name is Francisco Vargas
 
-- 📚 Student
+- 📚 Software Engineer student at FIAP
 - 📫 Contact me on LinkedIn: linkedin.com/in/franciscovargas7
 - 😎 19yo
