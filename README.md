@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Most used technologies:</h3>
+<h3 align="left">Technologies I use in my day:</h3>
 
 ###
 
