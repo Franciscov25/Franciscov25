@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Francisco, welcome to my profile.</h2>
+<h4>Sou estudante de Engenharia de Software na FIAP, busco solucionar problemas com criatividade.</h4>
 
 ###
 
@@ -50,5 +51,4 @@
 
 ##
 
-<h4>"Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar"</h4>
 <h5>Josué 1:9</h5>
