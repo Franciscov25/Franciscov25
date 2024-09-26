@@ -9,6 +9,7 @@
   <li>I'm currently studying Software Engineering at FIAP University</li>
   <li>I'm currently not work.</li>
   <li>How to reach me: <a href="https://www.linkedin.com/in/franciscovargas7/">Francisco Vargas</a> on LinkedIn</li>
+  <li>I like musics</li>
 </ul>
 
 <h2>Stats</h2>
