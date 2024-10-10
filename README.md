@@ -34,7 +34,7 @@
 
 ##
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4aHQ5azFsa3B1d3g3bThqMWNmYjZhbXV0eXltbmRzZ2U4azN2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9YbZxUobLqOKhW/giphy.webp">
+<img src="https://media1.tenor.com/m/rb2-4-g5FFcAAAAd/linkin-park-the-emptiness-machine.gif" width="300px">
 
 
 <h5>Josué 1:9</h5>
