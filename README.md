@@ -33,8 +33,3 @@
 
 
 ##
-
-<img src="https://media1.tenor.com/m/rb2-4-g5FFcAAAAd/linkin-park-the-emptiness-machine.gif" width="300px">
-
-
-<h5>Josué 1:9</h5>
