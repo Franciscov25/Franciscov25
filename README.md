@@ -15,7 +15,7 @@ Gosto de resolver problemas reais com o meu conhecimento, apaixonado por tecnolo
 
 <h3 align="left">Connect with me!</h3>
 <a href='https://www.linkedin.com/in/franciscovargas7/'><img src='https://devicon-website.vercel.app/api/linkedin/original.svg' width='40' alt='logo-linkedin'/></a>
-<a href='https://www.linkedin.com/in/franciscovargas7/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' width='170' alt='logo-instagram'/></a>
+<a href='https://www.instagram.com/fvargass7/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' width='170' alt='logo-instagram'/></a>
 
 
 <h3 align="left">My Stack</h3>
