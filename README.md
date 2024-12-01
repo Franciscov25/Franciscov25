@@ -26,6 +26,7 @@ Gosto de resolver problemas reais com o meu conhecimento, apaixonado por tecnolo
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" alt="js logo"/>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" alt="python logo"/>
   <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg" width="40" alt="arduino logo"/>
+  <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width='40' alt="cpp-logo"/>
 </div>
 
 #
