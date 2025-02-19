@@ -8,22 +8,23 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software na FIAP. Atualmente focado em desenvolvimento web, mas também tenho interesse em áreas como segurança e sistemas embarcados.
+<p align="center">Estudante de Engenharia de Software na FIAP. Atualmente focado em desenvolvimento web, mas também tenho interesse em áreas como gestão e sistemas embarcados.
 Gosto de resolver problemas reais com o meu conhecimento, apaixonado por tecnologia e inovação.</p>
   
 #
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 <a href='https://www.linkedin.com/in/franciscovargas7/'><img src='https://devicon-website.vercel.app/api/linkedin/original.svg' width='40' alt='logo-linkedin'/></a>
 <a href='https://www.instagram.com/fvargass7/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' width='170' alt='logo-instagram'/></a>
 
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">Tecnologias que estou estudando</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"/>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" alt="css logo"/>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" alt="js logo"/>
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" alt="python logo"/>
   <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg" width="40" alt="arduino logo"/>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width='40' alt="cpp-logo"/>
