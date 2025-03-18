@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Engenharia de Software na FIAP. Atualmente focado em desenvolvimento web, mas também tenho interesse em áreas como gestão e sistemas embarcados.
+<p align="center">Estudante de Engenharia de Software na FIAP. Tenho interesse em Desenvolvimento Web, IA, gestão e sistemas embarcados/IoT.
 Gosto de resolver problemas reais com o meu conhecimento, apaixonado por tecnologia e inovação.</p>
   
 #
