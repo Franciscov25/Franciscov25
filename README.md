@@ -39,9 +39,9 @@ Gosto de resolver problemas reais com o meu conhecimento, apaixonado por tecnolo
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscov25&layout=pie&bg_color=4682B4&title_color=fff&text_color=fff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscov25&layout=pie&bg_color=4682B4&title_color=fff&text_color=ffffff)
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Franciscov25&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=4682B4&title_color=fff&text_color=fff&border_radius=10&border_color=191970&icon_color=fff&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Franciscov25&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=4682B4&title_color=fff&text_color=fff&border_radius=10&border_color=191970&icon_color=ffffff&theme=jolly" alt="GitHub stats">
 </div>
 
 
